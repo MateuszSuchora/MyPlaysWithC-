@@ -1,0 +1,13 @@
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.exe
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.deps.json
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.runtimeconfig.json
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.runtimeconfig.dev.json
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.dll
+C:\Users\matie\source\repos\SynchronizedAsynchronized\bin\Debug\netcoreapp3.1\SynchronizedAsynchronized.pdb
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.AssemblyInfoInputs.cache
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.AssemblyInfo.cs
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.csproj.CoreCompileInputs.cache
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.dll
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.pdb
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.genruntimeconfig.cache
+C:\Users\matie\source\repos\SynchronizedAsynchronized\obj\Debug\netcoreapp3.1\SynchronizedAsynchronized.csprojAssemblyReference.cache

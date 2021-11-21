@@ -1,0 +1,13 @@
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.exe
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.deps.json
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.runtimeconfig.json
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.runtimeconfig.dev.json
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.dll
+C:\Users\matie\source\repos\Testy\bin\Debug\netcoreapp3.1\Testy.pdb
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.csprojAssemblyReference.cache
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.AssemblyInfoInputs.cache
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.AssemblyInfo.cs
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.csproj.CoreCompileInputs.cache
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.dll
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.pdb
+C:\Users\matie\source\repos\Testy\obj\Debug\netcoreapp3.1\Testy.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5uqgIRsXl3BBY+SeMUqFrPugmyIqmMxDxoks3lpkc5RNksIfLed60GoYCp+ziArkyKtuXwzLSvZMvwiM35dqg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\matie\\source\\repos\\ServerTCP\\ServerTCP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matie\\.nuget\\packages\\grpc\\2.30.0\\grpc.2.30.0.nupkg.sha512",
+    "C:\\Users\\matie\\.nuget\\packages\\grpc.core\\2.30.0\\grpc.core.2.30.0.nupkg.sha512",
+    "C:\\Users\\matie\\.nuget\\packages\\grpc.core.api\\2.30.0\\grpc.core.api.2.30.0.nupkg.sha512",
+    "C:\\Users\\matie\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

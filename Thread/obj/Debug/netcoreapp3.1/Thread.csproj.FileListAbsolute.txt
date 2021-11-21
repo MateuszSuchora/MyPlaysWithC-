@@ -1,0 +1,13 @@
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Thread.csprojAssemblyReference.cache
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfoInputs.cache
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Thread.AssemblyInfo.cs
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Thread.csproj.CoreCompileInputs.cache
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.exe
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.deps.json
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.dll
+C:\Users\matie\source\repos\Thread\bin\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Threads.dll
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\matie\source\repos\Thread\obj\Debug\netcoreapp3.1\Thread.genruntimeconfig.cache
